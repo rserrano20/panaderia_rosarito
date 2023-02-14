@@ -1,0 +1,4 @@
+.efectoimg:hover{
+filter: opacity(50%);
+transition: 150ms;
+}
